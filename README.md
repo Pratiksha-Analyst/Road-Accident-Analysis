@@ -63,4 +63,4 @@ Rural Areas: 20% of accidents occurred in rural areas.
 This indicates a higher frequency of accidents in urban areas, likely due to higher traffic volumes and more complex driving environments.
 Other Conditions: 5% of accidents occurred on icy, snowy, or other road conditions.
 
-![Dashboard]
+![Dashboard](https://github.com/Pratiksha-Analyst/Road-Accident-Analysis/blob/main/Road_Analytics.jpg)
